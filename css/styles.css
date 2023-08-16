@@ -1,4 +1,5 @@
 .body{
+    color: #434455;
     background-color: #FFFFFF;
     font-family: Roboto;
 }
@@ -73,7 +74,6 @@ letter-spacing: 1.12px;
 .button-effective{
 border-radius: 4px;
 background: #4D5AE5;
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 /* Sectuion 2 */
@@ -114,7 +114,7 @@ text-transform: capitalize;
 }
 
 .worker-photo{
-    background: url(<path-to-image>), lightgray -200px -7.128px / 251.515% 170.277% no-repeat;
+background: url(<path-to-image>), lightgray -200px -7.128px / 251.515% 170.277% no-repeat;
 }
 
 .name-team{
