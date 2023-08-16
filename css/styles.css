@@ -1,7 +1,7 @@
 .body{
-    color: #434455;
-    background-color: #FFFFFF;
-    font-family: Roboto, sans-serif;
+color: #434455;
+background-color: #FFFFFF;
+font-family: Roboto, sans-serif;
 }
 
 /* Header */
@@ -28,13 +28,7 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 
-.navigation-list{
-    color: #2E2F42;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+.navigation-list{color: #2E2F42;font-size: 16px;font-style: normal;font-weight: 500;line-height: 24px;letter-spacing: 0.32px;
 }
 
 .adress{
@@ -47,7 +41,7 @@ letter-spacing: 0.32px;
 }
 
 .adress-list{
-    color: #434455;
+color: #434455;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -58,11 +52,11 @@ letter-spacing: 0.32px;
 /* Section 1 */
 
 .section-effective{
-    background: #2E2F42;
+background: #2E2F42;
 }
 
 .table-effective{
-    color: #FFF;
+color: #FFF;
 text-align: center;
 font-size: 56px;
 font-style: normal;
@@ -72,7 +66,6 @@ letter-spacing: 1.12px;
 }
 
 .button-effective{
-border-radius: 4px;
 background: #4D5AE5;
 }
 
@@ -191,7 +184,7 @@ letter-spacing: 0.32px;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px; /* 116.667% */
+    line-height: 21px;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
