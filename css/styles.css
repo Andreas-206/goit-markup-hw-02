@@ -6,8 +6,8 @@ font-family: Roboto, sans-serif;
 
 /* Header */
 
-.web{
-color: #4D5AE5;
+.studio{
+color: #2E2F42;
 font-family: Raleway;
 font-size: 18px;
 font-style: normal;
@@ -17,14 +17,18 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 
-.studio{
-color: #2E2F42;
-font-family: Raleway;
-font-size: 18px;
-font-style: normal;
+.studio:hover,
+.studio:focus{
+color: #404bbf 
+}
+
+.navigation{
+color: ; #4d5ae5;
+font-size: 18px; 
+font-family: Raleway, sans-serif;
 font-weight: 700;
-line-height: 21px;
-letter-spacing: 0.54px;
+line-height: 1.17;
+letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 
@@ -47,6 +51,11 @@ font-style: normal;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.32px;
+}
+
+.adress-list:hover,
+.adress-list:focus{
+color: #404bbf 
 }
 
 /* Section 1 */
