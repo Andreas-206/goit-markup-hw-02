@@ -135,6 +135,10 @@ text-transform: capitalize;
 line-height: 1.11;
 }
 
+.team-list{
+    background-color: #FFFFFF;
+}
+
 .worker-photo{
 background: url(<path-to-image>), lightgray -200px -7.128px / 251.515% 170.277% no-repeat;
 }
