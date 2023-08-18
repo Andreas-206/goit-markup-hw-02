@@ -35,11 +35,11 @@ background-color: #FFFFFF;
 
 .nav-logo{
 color: #4d5ae5;
-font-family: Raleway;
+font-family: Raleway, sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
@@ -214,11 +214,11 @@ background-color: #2E2F42;
 
 .foot-logo{
 color: #4d5ae5;
-font-family: Raleway;
+font-family: Raleway, sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
