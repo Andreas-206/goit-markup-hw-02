@@ -4,6 +4,13 @@ background-color: #FFFFFF;
 font-family: Roboto, sans-serif;
 }
 
+.link{
+text-decoration: none;
+}
+
+.list{
+list-style-type: none;
+}
 /* Header */
 
 .studio{
@@ -23,7 +30,7 @@ color: #404bbf
 }
 
 .navigation{
-
+background-color: #FFFFFF;
 }
 
 .nav-logo{
@@ -55,7 +62,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.adress-list{
+.adress-link{
 color: #434455;
 font-size: 16px;
 font-style: normal;
@@ -64,8 +71,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.adress-list:hover,
-.adress-list:focus{
+.adress-link:hover,
+.adress-link:focus{
 color: #404bbf 
 }
 
@@ -202,18 +209,18 @@ letter-spacing: 0.02em;
 /* Footer */
 
 .footer{
-color: #4D5AE5;
-font-size: 18px; 
-font-family: Raleway, sans-serif;
-font-weight: 700;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
 background-color: #2E2F42;
 }
 
 .foot-logo{
 color: #4d5ae5;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 }
 
 .footer-web{
